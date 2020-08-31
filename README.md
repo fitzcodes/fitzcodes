@@ -15,7 +15,7 @@ The organization and community is perfect for those like me. It's been a huge bl
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=fitzwebdev&show_icons=true&count_private=true&theme=react" alt = "Github Stats"/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&layout=compact&theme=react"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&theme=react"/>
 </P>
 <!--
 **fitzwebdev/fitzwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
