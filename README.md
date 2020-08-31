@@ -1,5 +1,5 @@
 <h1 align = "center">Howdy 👋 I'm Thomas 🤠</h1>
-<p align = "center"><img src="https://github.com/fitzwebdev/fitzwebdev/blob/master/Thomas2.jpg" alt ="Profile Picture" width = "200px" height = "200px"/> </p>
+<p align = "center"><img src="https://github.com/fitzwebdev/fitzwebdev/blob/master/Thomas2.jpg" alt ="Profile Picture" width = "200px" height = "200px" border = "3px solid #000000" border-radius = "10px"/> </p>
 <p align = "center">WELCOME TO MY LITTLE PIECE OF GITHUB</P>
 
 <!--
