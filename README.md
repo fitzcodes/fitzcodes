@@ -1,5 +1,8 @@
 <h1 align = "center">Howdy 👋 I'm Thomas 🤠</h1>
 <p align = "center"><img src="https://github.com/fitzwebdev/fitzwebdev/blob/master/Thomas2.jpg" alt ="Profile Picture" width = "200px" height = "200px"/></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fitzwebdev&color=blue&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <p align = "center">WELCOME TO MY LITTLE PIECE OF GITHUB</P>
 
 ### A Veteran
@@ -15,7 +18,7 @@ The organization and community is perfect for those like me. It's been a huge bl
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=fitzwebdev&show_icons=true&count_private=true&theme=react" alt = "Github Stats"/>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&theme=react"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&layout=compact&theme=react"/>
 </P>
 <!--
 **fitzwebdev/fitzwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
