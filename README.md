@@ -20,6 +20,18 @@ The organization and community is perfect for those like me. It's been a huge bl
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&layout=compact&theme=react"/>
 </P>
+
+<h3 align = "center">I'm really interested in contributing to open source while I learn and in the years to come. </p>
+
+<p align = "center">Let's get together and work on something. Hit me up below.</P>
+
+<a href=https://twitter.com/fitzwebdev target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fitzwebdev twitter" height="35" width="35" /></a>
+<a href=https://linkedin.com/in/thomas-fitzgerald-104927137/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fitzwebdev linkedin" height="35" width="35" /></a>
+
+
+
+
+
 <!--
 **fitzwebdev/fitzwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
