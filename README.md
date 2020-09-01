@@ -1,4 +1,4 @@
-<h1 align = "center">Howdy 👋 I'm Thomas 🤠</h1>
+<h1 align = "center">Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Thomas 🤠</h1>
 <p align = "center"><img src="https://github.com/fitzwebdev/fitzwebdev/blob/master/Thomas2.jpg" alt ="Profile Picture" width = "200px" height = "200px"/></p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=fitzwebdev&color=blue&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
