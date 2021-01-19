@@ -8,9 +8,6 @@
 ### A Veteran
 I spent 8 (okay, well 1 month shy of 8) glorious years in the United States Navy. I was an aircraft electrician and certainly had a wild ride. 
 
-### A Humble Coding Beginning
-I started working on code sporadically before I actually separated from the service. Unfortunately that's how it remained for a while after returning to civilian life. I did get pretty decent at HTML and CSS though. 
-
 ### \#VetsWhoCode And New Life
 One day while surfing the internet I happened to come across an organization called \#VetsWhoCode. I liked what I saw. I stalked all the social media and tried to find every review that might be out there. In my head I was like "Is this real?". 
 <br>
