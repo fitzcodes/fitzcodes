@@ -12,11 +12,28 @@ I spent 8 (okay, well 1 month shy of 8) glorious years in the United States Navy
 One day while surfing the internet I happened to come across an organization called \#VetsWhoCode. I liked what I saw. I stalked all the social media and tried to find every review that might be out there. In my head I was like "Is this real?". 
 <br>
 The organization and community is perfect for those like me. It's been a huge blessing to have guided discipline while learning to code. Being instructed by industry experts in terms I can understand as a veteran has been amazing. Daunting tasks are much easier with that special support system. Best of all, it's up-to-date with industry standards. 
+
+### Moving Forward
+Currently doing interview prep and <strong>seeking that first job</strong> in tech. Leaning heavily on the mentors gained from the \#VetsWhoCode family to point me in the right direction. As of writing this my passions in coding are with creating websites. Accessibility through HTML and CSS fascinate me. Absolutely in love with JavaScript and it's React library, so I've been focusing a lot of time in those areas. 
+<br>
+\#VetsWhoCode will always be in my heart. I will always contribute back to the organization anytime I'm asked, anyway that I'm asked. 
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/fitzwebdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fitzwebdev" height="30" width="40" /></a>
+</p>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=fitzwebdev&show_icons=true&count_private=true&theme=react" alt = "Github Stats"/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fitzwebdev&layout=compact&theme=react"/>
 </P>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitzwebdev&theme=darkhub" alt="fitzwebdev" /></a> </p>
 
 <h3 align = "center">I'm really interested in contributing to open source while I learn and in the years to come. </p>
 
