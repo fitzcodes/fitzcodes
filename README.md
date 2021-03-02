@@ -18,15 +18,6 @@ Currently doing interview prep and <strong>seeking that first job</strong> in te
 <br>
 \#VetsWhoCode will always be in my heart. I will always contribute back to the organization anytime I'm asked, anyway that I'm asked. 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fitzwebdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fitzwebdev" height="30" width="40" /></a>
-</p>
-
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=fitzwebdev&show_icons=true&count_private=true&theme=react" alt = "Github Stats"/>
 
